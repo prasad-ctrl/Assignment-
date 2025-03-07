@@ -20,4 +20,4 @@ User ID(PK) Name Email Password
 Login ID(pk) user_id(fk) Login_Id
 Task ID(pk) user_id(fk) task_name status approval_count
 user_to_task_map ID(pk) user_id task_id
-user_to_comment_map(1:M) ID(pk) user_id task_id comment
+user_to_comment_map(1:M) ID(pk) user_id task_id comment we
